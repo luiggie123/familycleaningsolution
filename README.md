@@ -8,10 +8,6 @@ Sitio estático listo para publicar en GitHub Pages.
 - `styles.css`: estilos del sitio.
 - `script.js`: comportamiento del formulario de contacto estático.
 - `assets/`: imágenes, logo y recursos visuales.
-- assets/family-cleaning-logo-lockup.png
-assets/family-cleaning-logo-mark.png
-assets/family-cleaning-logo-full.jpeg
-assets/hero-property-care.png
 - `.nojekyll`: evita procesamiento de Jekyll en GitHub Pages.
 
 ## Publicar en GitHub Pages
